@@ -1,4 +1,4 @@
-### Hello world! 👋
+# Hello world! 👋
 
 I'm a front-end developer with a product design background. I'm focusing on Rocketseat's GoStack bootcamp to master NodeJs, React and React Native frameworks.
 You can hear more about me on [my portfolio](https://alansiqueira.com)
