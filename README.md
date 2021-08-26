@@ -2,6 +2,8 @@
 
 I'm a front-end developer with a product design background. I'm focusing on Rocketseat's GoStack bootcamp to master NodeJs, React and React Native frameworks.
 Hope to see you around!
+
+Learning Java and diving deep into Object Oriented Programming.
 <br>
 ![Codewars Kata level](https://www.codewars.com/users/alansiqueira/badges/small)
 <!--
