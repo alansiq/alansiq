@@ -1,22 +1,34 @@
 # Hello world! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-I'm a front-end developer with a product design background. I'm focusing on Rocketseat's GoStack bootcamp to master NodeJs, React and React Native frameworks.
-Hope to see you around!
+<p align="left"> 
+  I'm a fullstack developer with a product design background. I work with *.NET 5* , *React*, *NodeJS*, *Typescript* and *NextJS*.
+  Currently I'm working on my own blog using *Next* and *MDX*. You can check it out clicking here: .<br>
+  
+</p>
 
-Learning Java and diving deep into Object Oriented Programming.
-<br>
-![Codewars Kata level](https://www.codewars.com/users/alansiqueira/badges/small)
-<!--
-**alansiq/alansiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  🦄 Programming languages: <strong>C#, Java, Javascript & Typescript</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💼 Ferramentas: <strong>.NET 5, MVC, Java Springboot, NodeJS, React, NextJS.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💌 Check me out on my LinkedIn: ⤵️
+</p>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/alanpsiqueira/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanpsiqueira/" /></a>
+
+  <a href="#" alt="Github">
+  <img src="https://img.shields.io/github/followers/alansiq?style=social"/></a>
+  
+  <a href="https://www.codewars.com/users/alansiqueira" alt="Codewars">
+  <img src="https://www.codewars.com/users/alansiqueira/badges/small" /></a>
+</p>  
+
+
